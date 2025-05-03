@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/6ce3a9be-5ddc-4ebb-a970-0bf387df4cde)# skill_assesment 1
-
 ```
 import pandas as pd
 data={
